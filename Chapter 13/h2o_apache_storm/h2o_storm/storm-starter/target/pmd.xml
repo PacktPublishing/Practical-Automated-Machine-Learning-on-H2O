@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.42.0" timestamp="2022-08-09T23:02:42.738">
+<file name="/home/salil/Documents/chapter_13/Storm/storm/examples/storm-starter/test/jvm/org/apache/storm/starter/HeartFailureComplications.java">
+<violation beginline="26" endline="26" begincolumn="10" endcolumn="86" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="getModelCategory" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'getModelCategory()' is missing an @Override annotation.
+</violation>
+<violation beginline="28" endline="28" begincolumn="10" endcolumn="48" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="isSupervised" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'isSupervised()' is missing an @Override annotation.
+</violation>
+<violation beginline="29" endline="29" begincolumn="10" endcolumn="39" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="nfeatures" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'nfeatures()' is missing an @Override annotation.
+</violation>
+<violation beginline="30" endline="30" begincolumn="10" endcolumn="37" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="nclasses" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'nclasses()' is missing an @Override annotation.
+</violation>
+<violation beginline="57" endline="57" begincolumn="10" endcolumn="74" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="getUUID" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'getUUID()' is missing an @Override annotation.
+</violation>
+<violation beginline="63" endline="107" begincolumn="16" endcolumn="3" rule="MissingOverride" ruleset="Best Practices" package="org.apache.storm.starter" class="HeartFailureComplications" method="score0" externalInfoUrl="https://pmd.github.io/pmd-6.42.0/pmd_rules_java_bestpractices.html#missingoverride" priority="3">
+The method 'score0(double, double)' is missing an @Override annotation.
+</violation>
+</file>
+</pmd>
