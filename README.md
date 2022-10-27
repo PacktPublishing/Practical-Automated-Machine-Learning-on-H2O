@@ -72,3 +72,7 @@ He is passionate about solving complex scaling problems, building machine learni
 Salil earned his degree in IT from Xavier Institute of Engineering, Mumbai, India, in 2015 and later earned his master’s degree in computer science from Trinity College Dublin, Ireland, in 2018, specializing in future networked systems.
 His work history includes the likes of BookMyShow, Genesys, and Vectra AI.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801074520">https://packt.link/free-ebook/9781801074520 </a> </p>
